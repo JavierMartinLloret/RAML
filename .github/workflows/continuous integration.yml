@@ -12,4 +12,4 @@ jobs:
 
     steps:
     - name: build the project
-      run: javac -d . ../../codigo/*.java
+      run: # Aquí deberíamos poner los comandos a ejecutar para construir el producto. javac, comandos de maven...
